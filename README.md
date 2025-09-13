@@ -8,7 +8,7 @@ Discord → ACE → (optional) Qbox/QBCore job linking.
 - You can also whitelabel via extra ACE group names if you prefer.
 
   
-##Looking for help, or custom integrations?  
+## Looking for help, or custom integrations?  
 [![Join Whisky Dev Discord](https://img.shields.io/badge/Discord-Support%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/6FQtJdBXMk)
 
 

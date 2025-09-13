@@ -1,4 +1,6 @@
 # whisky_discord_perms
+![Repo Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhvsky%2Fwhisky-discord-jobs&title=Repo%20Views)
+
 
 Discord → ACE → (optional) Qbox/QBCore job linking.
 

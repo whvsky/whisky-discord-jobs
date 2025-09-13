@@ -1,7 +1,4 @@
 # whisky_discord_perms
-![Repo Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhvsky%2Fwhisky-discord-jobs&title=Repo%20Views)
-
-
 Discord → ACE → (optional) Qbox/QBCore job linking.
 
 ## What you asked for
@@ -35,3 +32,5 @@ Discord → ACE → (optional) Qbox/QBCore job linking.
 - Job linking tries **qbx_core** first, falls back to **qb-core** APIs, and finally emits a generic `QBCore:Server:SetJob` event for forks.
 - Toggle with `Config.EnableJobLink` and `Config.OnlySetIfUnemployed`.
 - Department priority is set in `Config.DepartmentPriority`.
+##Looking for help, or custom integrations?  
+[![Join Whisky Dev Discord](https://img.shields.io/badge/Discord-Support%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/6FQtJdBXMk)

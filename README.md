@@ -7,6 +7,11 @@ Discord → ACE → (optional) Qbox/QBCore job linking.
 - Blank scaffolding for **Discord role IDs** to fill in later.
 - You can also whitelabel via extra ACE group names if you prefer.
 
+  
+##Looking for help, or custom integrations?  
+[![Join Whisky Dev Discord](https://img.shields.io/badge/Discord-Support%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/6FQtJdBXMk)
+
+
 ## Install
 1) Ensure dependencies and this resource in your `server.cfg`:
    ```cfg
@@ -32,5 +37,3 @@ Discord → ACE → (optional) Qbox/QBCore job linking.
 - Job linking tries **qbx_core** first, falls back to **qb-core** APIs, and finally emits a generic `QBCore:Server:SetJob` event for forks.
 - Toggle with `Config.EnableJobLink` and `Config.OnlySetIfUnemployed`.
 - Department priority is set in `Config.DepartmentPriority`.
-##Looking for help, or custom integrations?  
-[![Join Whisky Dev Discord](https://img.shields.io/badge/Discord-Support%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/6FQtJdBXMk)

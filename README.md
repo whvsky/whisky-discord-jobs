@@ -9,8 +9,7 @@ Discord → ACE → (optional) Qbox/QBCore job linking.
 - You can also whitelabel via extra ACE group names if you prefer.
 
 ## Install
-1) Put this folder in `resources/[local]/whisky_discord_perms`
-2) Ensure dependencies and this resource in your `server.cfg`:
+1) Ensure dependencies and this resource in your `server.cfg`:
    ```cfg
    ensure Badger_Discord_API
    ensure whisky_discord_perms
